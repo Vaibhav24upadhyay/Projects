@@ -1,5 +1,6 @@
 #Project Description
 
+TO view the project code contact to email vaibhav2401iit@gmail.com  
 
 #(1) Shortest Route Visualizer
 
@@ -47,9 +48,11 @@ two points based on the travel time. </h4>
 ## Snapshots of App 📸
 ![Untited design-4](https://raw.githubusercontent.com/Vaibhav24upadhyay/Projects/main/Shortest_Route_Visualizer_info/Snapshot%201.jpeg)
 <br>
-![Untitled design-4](https://github.com/supershivam13/Shortest_Route_Visualizer_for_Electric_Vehicles/blob/main/assets/Snapshot%204.jpeg)
-
-
+![Untitled design-4](https://github.com/Vaibhav24upadhyay/Projects/blob/main/Shortest_Route_Visualizer_info/Snapshot%202.jpeg)
+<br>
+![Untitled design-4](https://raw.githubusercontent.com/Vaibhav24upadhyay/Projects/main/Shortest_Route_Visualizer_info/Snapshot%203.jpeg)
+<br>
+![Untitled design-4](https://raw.githubusercontent.com/Vaibhav24upadhyay/Projects/main/Shortest_Route_Visualizer_info/Snapshot%204.jpeg)
 ## 📒 Libraries Used In Project
 
 * OSMNX <br>
@@ -64,6 +67,7 @@ glad to work with you.
 
 <!--
 <p align="center" width="100%">
-   Made with ❤️ in 🇮🇳 Vaibhav Upadhyay
+   Made with ❤️ by Vaibhav Upadhyay,
+   IIT Patna
 </p>
 
