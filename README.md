@@ -45,9 +45,9 @@ two points based on the travel time. </h4>
 - Wait for few seconds, it will start running on your local machine.
 
 ## Snapshots of App 📸
-[Untited design-4]("https://drive.google.com/file/d/1v_TyVJDi_iERVntnuJimrl8jtUH8I4Ng/view?usp=share_link")
+[Untited design-4](https://github.com/Vaibhav24upadhyay/Projects/blob/main/Shortest_Route_Visualizer_info/Snapshot%201.jpeg)
 <br>
-[Untitled design-4](https://drive.google.com/file/d/1WVDU2Z3aY0hztSr9pCRenljzDlUw2pE9/view?usp=share_link)
+[Untitled design-4](Shortest_Route_Visualizer_info/Snapshot 2.jpeg)
 
 ## 📒 Libraries Used In Project
 
