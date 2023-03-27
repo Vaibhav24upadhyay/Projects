@@ -49,15 +49,12 @@ two points based on the travel time. </h4>
 ## Snapshots of App 📸
 ![Untited design-4](https://raw.githubusercontent.com/Vaibhav24upadhyay/Projects/main/Shortest_Route_Visualizer_info/Snapshot%201.jpeg)
 <br>
-***
 <br>
 ![Untitled design-4](https://github.com/Vaibhav24upadhyay/Projects/blob/main/Shortest_Route_Visualizer_info/Snapshot%202.jpeg)
 <br>
-***
 <br>
 ![Untitled design-4](https://raw.githubusercontent.com/Vaibhav24upadhyay/Projects/main/Shortest_Route_Visualizer_info/Snapshot%203.jpeg)
 <br>
-***
 <br>
 ![Untitled design-4](https://raw.githubusercontent.com/Vaibhav24upadhyay/Projects/main/Shortest_Route_Visualizer_info/Snapshot%204.jpeg)
 <br>
