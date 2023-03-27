@@ -1,7 +1,7 @@
-<h2>Project Description<h2>
+<h2>Projects Description<h2>
 
-To view the project code 
-contact vaibhav2401iit@gmail.com  
+<h4>To view the project code 
+contact vaibhav2401iit@gmail.com <h4>  
 
 <h3> (1) Shortest Route Visualizer <h3>
 
