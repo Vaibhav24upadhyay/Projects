@@ -1,9 +1,9 @@
-#Project Description
+##Project Description
 
 To view the project code 
 contact vaibhav2401iit@gmail.com  
 
-#(1) Shortest Route Visualizer
+##(1) Shortest Route Visualizer
 
 ## 📌 Introduction
 
@@ -58,15 +58,15 @@ two points based on the travel time. </h4>
 <br>
 ![Untitled design-4](https://raw.githubusercontent.com/Vaibhav24upadhyay/Projects/main/Shortest_Route_Visualizer_info/Snapshot%204.jpeg)
 <br>
-* OSMNX <br>
+## 📒 Libraries Used In Project
+* OSMNX
 * Folium
 * Numpy
 * Json
 * Matplotlib
 
 
-* Still there are some features to complete as well as to implement, If you find this app intresting than hit me up; I will be
-glad to work with you.
+* Still there are some features to complete as well as to implement, If you find this app intresting than hit me up. I will be glad to work with you.
 
 <!--
 <p align="center" width="100%">
