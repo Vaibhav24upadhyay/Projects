@@ -1,9 +1,9 @@
-##Project Description
+<h2>Project Description<h2>
 
 To view the project code 
 contact vaibhav2401iit@gmail.com  
 
-##(1) Shortest Route Visualizer
+<h3> (1) Shortest Route Visualizer <h3>
 
 ## 📌 Introduction
 
